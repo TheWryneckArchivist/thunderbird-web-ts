@@ -1,0 +1,50 @@
+{/* Content Cards */}
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+  {showcaseCards.map((card, i) => (
+    <div key={i} className="group relative overflow-hidden rounded-xl bg-[#1A1A1A] border border-white/5 p-5 transition-all hover:border-red-500/50 hover:shadow-[0_0_30px_rgba(220,38,38,0.15)] hover:-translate-y-1">
+      {/* Subtle Accent Line */}
+      <div className="absolute top-0 left-0 h-[2px] w-0 bg-red-600 transition-all group-hover:w-full" />
+      
+      <span className="text-[10px] font-bold text-red-500 uppercase tracking-widest">{card.category}</span>
+      <h3 className="text-lg font-bold text-white mt-1 mb-2 leading-tight">{card.title}</h3>
+      <p className="text-sm text-gray-400 leading-snug mb-4">{card.description}</p>
+      
+      <div className="flex items-center justify-between mt-auto">
+        <span className="bg-white/5 px-2 py-1 rounded text-[10px] text-gray-400 font-mono italic">
+          {card.tag}
+        </span>
+        <button className="text-white opacity-0 group-hover:opacity-100 transition-opacity">
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+        </button>
+      </div>
+    </div>
+  ))}
+</div>
+
+ This supports automated layout rendering and accessibility. This enables dynamic text scaling, screen-reader accessibility, and localization support.
+
+
+   // useState<File[]>([]); // Track dropped files
+  // useState(false);
+
+  // Get all unique tags from your data
+  const allTags = ["All", ...new Set(showcaseCards.getList.map(card => card.tag))];
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedSearch(searchQuery);
+    }, 600);
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [searchQuery]);
+
+  const filteredCards = showcaseCards.getList.filter((card) => {
+    const matchesSearch = card.title.toLowerCase().includes(debouncedSearch.toLowerCase()) ||
+      card.category.toLowerCase().includes(debouncedSearch.toLowerCase()) ||
+      card.tag.toLowerCase().includes(debouncedSearch.toLowerCase());
+    const matchesTag = activeTag === "All" || card.tag === activeTag;
+
+    return matchesSearch && matchesTag;
+  });

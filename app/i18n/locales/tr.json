@@ -1,0 +1,212 @@
+{
+  "header": {
+    "stable": "KARARLI",
+    "features": "Özellikler",
+    "showcase": "Vitrin",
+    "community": "Topluluk",
+    "donate": "Bağış",
+    "downloadLatest": "En Son Sürümü İndir",
+    "language": "Dil",
+    "profile": "Profil",
+    "guest": "Misafir",
+    "open": "Aç",
+    "account": "Hesap",
+    "signIn": "Giriş Yap",
+    "signOut": "Çıkış Yap",
+    "enterNamePrompt": "Profil adını seçin"
+  },
+  "hero": {
+    "headline": "Sınır Tanımayan Masaüstü Oyunları",
+    "subheadline": "Oyun gecesi büyüsünü, nerede olursan ol ekranına getiriyoruz. Çünkü her büyük macera senin turunla başlar.",
+    "getItNow": "Şimdi Al",
+    "whatsNew": "Neler Yeni?",
+    "learnMore": "Daha Fazla",
+    "lookingFor": "Aradığın sürümler",
+    "early": "erken",
+    "stable": "kararlı",
+    "experimental": "deneysel",
+    "releases": "sürümleri?"
+  },
+  "assetLibrary": {
+    "mainHeader": {
+      "title": "Paket Duyuruları",
+      "titleAccent": "& Haberler",
+      "subtitle": "Yeni genişleme paketlerini, topluluk öne çıkanlarını ve son güncellemeleri yakala.",
+      "searchPlaceholder": "Varlık ara...",
+      "showing": "Gösterilen",
+      "results": "Sonuç",
+      "submitHere": "+ Buradan Gönder"
+    },
+    "allTagLabel": "Tümü",
+    "emptyState": "Aramana uyan varlık bulunamadı.",
+    "detailsLabel": "DETAYLAR +",
+    "cards": {
+      "bionix-core-2024": {
+        "title": "Bionix Core 2024",
+        "category": "Motor Güncellemesi",
+        "description": "TCG motorunun 4K varlık desteği ve gerçek zamanlı mantıkla gelen yeni nesli.",
+        "tag": "En Yeni"
+      },
+      "tabletop-essentials": {
+        "title": "Tabletop Essentials",
+        "category": "Varlık Paketi",
+        "description": "Özel oyun paketlerin için standart kart şablonları ve fizik tabanlı zarlar.",
+        "tag": "Doğrulandı"
+      },
+      "tournament-hub": {
+        "title": "Turnuva Merkezi",
+        "category": "Topluluk Aracı",
+        "description": "Discord sunucun için otomatik turnuva tabloları ve ödül havuzu yönetimi.",
+        "tag": "Beta"
+      },
+      "visual-card-editor": {
+        "title": "Görsel Kart Editörü",
+        "category": "Araçlar",
+        "description": "Kod yazmadan paketleri tasarla, dışa aktar ve doğrudan Thunderbird'e yayınla.",
+        "tag": "Pro"
+      },
+      "legacy-archive": {
+        "title": "Legacy Arşivi",
+        "category": "Arşiv",
+        "description": "2020-2023 dönemi klasik topluluk içeriklerine ve parti oyunu koleksiyonlarına eriş.",
+        "tag": "Kararlı"
+      },
+      "experimental-physics": {
+        "title": "Deneysel Fizik",
+        "category": "Motor Güncellemesi",
+        "description": "Gelişmiş çarpışmalar ve ragdoll desteğiyle yeni fizik motorumuzu dene.",
+        "tag": "Deneysel"
+      },
+      "community-showcase": {
+        "title": "Topluluk Vitrini",
+        "category": "Topluluk Aracı",
+        "description": "Topluluk tarafından oluşturulan dikkat çekici paketler ve modüller için dönen galeri.",
+        "tag": "Vitrin"
+      },
+      "developer-api": {
+        "title": "Geliştirici API'si",
+        "category": "Araçlar",
+        "description": "Thunderbird'ün açık API'si ile kendi araçlarını ve servislerini entegre et.",
+        "tag": "Geliştirici"
+      },
+      "card-animation-pack": {
+        "title": "Kart Animasyon Paketi",
+        "category": "Varlık Paketi",
+        "description": "Dinamik animasyonlar ve parçacık efektleriyle kartlarını canlandır.",
+        "tag": "Animasyon"
+      },
+      "virtual-tabletop": {
+        "title": "Sanal Masaüstü",
+        "category": "Motor Güncellemesi",
+        "description": "RPG ve kutu oyunları için ızgara destekli yeni optimize mod.",
+        "tag": "VTT"
+      }
+    },
+    "features": {
+      "sectionLabel": "Özellikler",
+      "heading": "Ciddi Masaüstü Üreticileri İçin Tasarlandı",
+      "subheading": "Yayınlama, keşif ve çoklu format desteğini oyun ekosisteminle birlikte ölçekleyen modüler, topluluk odaklı platform.",
+      "items": {
+        "creator-workflow": {
+          "eyebrow": "Üretici İş Akışı",
+          "title": "Yönlendirmeli Yayınlama ile Paketleri Daha Hızlı Çıkar",
+          "paragraphs": [
+            "Tek bir yerde tam genişleme paketleri oluştur ve doğrula; öngörülebilir meta veriler, temiz yükleme akışları ve moderasyona hazır gönderimler.",
+            "Kart görsellerinden deste manifestlerine kadar Thunderbird, yayın sürecini tutarlı tutar; böylece biçim sorunlarını düzeltmeye daha az, üretmeye daha çok zaman ayırırsın."
+          ],
+          "imageAlt": "Görsel editör ve yayınlama iş akışı önizlemesi"
+        },
+        "community-discovery": {
+          "eyebrow": "Topluluk Keşfi",
+          "title": "Oyuncularının Gerçekten İstediğini Öne Çıkar",
+          "paragraphs": [
+            "Öne çıkan paketleri, kararlı sürümleri ve deneysel modülleri arama etiketleriyle sun; oyuncular doğru içeriği hızla bulsun.",
+            "Dönüşümlü akış tarzı vitrinler, kategori, kalite durumu ve uyumluluk bağlamını korurken yeni güncellemeleri görmeyi kolaylaştırır."
+          ],
+          "imageAlt": "Öne çıkan modüllerle topluluk vitrini akışı"
+        },
+        "cross-game-flexibility": {
+          "eyebrow": "Oyunlar Arası Esneklik",
+          "title": "TCG, Parti ve Mantık Tabanlı Formatları Destekle",
+          "paragraphs": [
+            "Thunderbird hem görsel ağırlıklı hem metin odaklı sistemleri destekler; premium kart sanatından hafif sosyal destelere kadar her şeyi yayınlayabilirsin.",
+            "Birleşik gönderim hattı standartları net tutar, yine de farklı içerik tarzları ve oynanış yapılarına izin verir."
+          ],
+          "imageAlt": "Birden fazla oyun formatı için sanal masaüstü ortamı"
+        }
+      }
+    },
+    "donation": {
+      "heading": "Topluluğu Destekle",
+      "body": "Thunderbird'u seviyor musun? Yeni özellikler, varlıklar ve topluluk araçları geliştirmemize destek ol.",
+      "donateNow": "Şimdi Bağış Yap",
+      "learnMore": "Daha Fazla"
+    },
+    "modal": {
+      "titleStart": "Gönder",
+      "titleAccent": "Genişleme Paketini",
+      "subtitle": "Kart oyununu hayata geçir!",
+      "removeFileTitle": "Dosyayı kaldır",
+      "filesInLabel": "İçindekiler",
+      "clearAll": "Tümünü Temizle",
+      "assetPipelineOptions": "Varlık İşleme Seçeneklerin",
+      "tradingCardGames": "Koleksiyon Kart Oyunları:",
+      "directFlattenedAssets": "01. Doğrudan Düzleştirilmiş Varlıklar",
+      "directFlattenedAssetsBody": "Önceden render edilmiş, yüksek çözünürlüklü 2.5\" x 3.5\" (734x1024px) dikey oranlı görseller yükleyin. Karmaşık tasarımlı ve özel çerçeveli kartlar için idealdir.",
+      "dynamicComposition": "02. Dinamik Bileşim",
+      "dynamicCompositionBody": "Ham görselleri (PNG veya JPG) ve bir Veri Manifesti (JSON veya CSV) yükleyin. Ayrı sanat, metin ve ikon katmanları olan kartlar için idealdir.",
+      "partyAndLogicSystems": "Parti ve Mantık Sistemleri:",
+      "partyAndLogicSystemsBody": "Doğrulanmış deck.* manifestiyle, JSON veya CSV formatında standart metin tabanlı genişlemeler yükleyin. Cards Against Humanity, Secret Hitler ve benzeri görsel varlığı az oyunlar için uygundur.",
+      "abort": "İptal",
+      "finalizeLineOne": "Gönderimi",
+      "finalizeLineTwo": "Tamamla",
+      "disclaimerLabel": "Uyarı:",
+      "disclaimerLineOne": "Bu gönderimler, varlık bütünlüğünü ve proje standartlarına uyumu sağlamak için Thunderbird Komitesi ve Topluluk Moderatörleri tarafından incelenecektir.",
+      "disclaimerLineTwoPrefix": "Web hizmetlerimizi kullanarak, gönderilen içeriklerden doğabilecek fikri mülkiyet uyuşmazlıklarından sorumlu olmadığımızı kabul edersiniz. Bu varlıklara sahip olduğunuzu veya dağıtma hakkınız olduğunu onaylamalısınız.",
+      "disclaimerLineTwoSuffix": "",
+      "learnMoreGuidelines": "Gönderim kuralları hakkında daha fazla bilgi al.",
+      "titleField": {
+        "expansionPackTitleLabel": "Genişleme Paketi Başlığı",
+        "gameSystemLabel": "Oyun Sistemi",
+        "titlePlaceholder": "ör. Kanto Bölgesi v1",
+        "gameSystemOptions": [
+          "Cards Against Humanity",
+          "Cards Against Cryptography",
+          "Cards Against Developers",
+          "Secret Hitler",
+          "Rotten Apples",
+          "Özel"
+        ]
+      },
+      "descriptionField": {
+        "label": "Açıklama",
+        "placeholder": "Genişleme paketini benzersiz ve heyecanlı yapan şeyi paylaş!",
+        "characterLimitReached": "Motor optimizasyonu için karakter sınırına ulaşıldı."
+      },
+      "fileDrop": {
+        "dropAssetsHere": "Kart varlıklarını buraya bırak",
+        "clickToBrowse": "veya yerel dosyalara göz atmak için tıkla"
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "Masaüstü simülasyon dünyası için açık kaynak ekosistem. Oyuncu topluluğu için, hayal gücüyle güçlendirildi.",
+    "platform": "Platform",
+    "latestReleases": "Son Sürümler",
+    "documentation": "Dokümantasyon",
+    "assetLibrary": "Varlık Kütüphanesi",
+    "submitPack": "Paket Gönder",
+    "community": "Topluluk",
+    "discordServer": "Discord Sunucusu",
+    "githubRepository": "GitHub Deposu",
+    "twitter": "X / Twitter",
+    "showcase": "Vitrin",
+    "stayConnected": "Bağlantıda Kal",
+    "newsletterBody": "Büyük motor güncellemeleri ve topluluk etkinlikleri hakkında bildirim al.",
+    "emailAddress": "E-posta adresi",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Hizmet Koşulları",
+    "contact": "İletişim",
+    "copyright": "© 2026 Thunderbird Projesi. Clod Gozon tarafından hazırlandı."
+  }
+}

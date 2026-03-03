@@ -1,0 +1,212 @@
+{
+  "header": {
+    "stable": "STABILNO",
+    "features": "Funktsii",
+    "showcase": "Vitrina",
+    "community": "Soobshchestvo",
+    "donate": "Pozhertvovat",
+    "downloadLatest": "Skachat Poslednee",
+    "language": "Yazyk",
+    "profile": "Profil",
+    "guest": "Gost",
+    "open": "Otkryt",
+    "account": "Akkount",
+    "signIn": "Voyti",
+    "signOut": "Vyiti",
+    "enterNamePrompt": "Vyberite imya profilya"
+  },
+  "hero": {
+    "headline": "Nastolnye Igry Bez Granits",
+    "subheadline": "Perenosim magiyu igrovogo vechera na vash ekran, gde by vy ni byli. Kazhdoe bolshoe priklyuchenie nachinaetsya s vashego khoda.",
+    "getItNow": "Poluchit Seichas",
+    "whatsNew": "Chto Novogo?",
+    "learnMore": "Uznat Bolshe",
+    "lookingFor": "Ishchete versii",
+    "early": "rannie",
+    "stable": "stabilnye",
+    "experimental": "eksperimentalnye",
+    "releases": "?"
+  },
+  "assetLibrary": {
+    "mainHeader": {
+      "title": "Novye Paki",
+      "titleAccent": "& Novosti",
+      "subtitle": "Sledite za novymi rasshireniyami, podborkami soobshchestva i poslednimi obnovleniyami.",
+      "searchPlaceholder": "Poisk assets...",
+      "showing": "Pokazano",
+      "results": "Rezultaty",
+      "submitHere": "+ Otpravit"
+    },
+    "allTagLabel": "Vse",
+    "emptyState": "Po vashemu zaprosu nichego ne naideno.",
+    "detailsLabel": "DETAILS +",
+    "cards": {
+      "bionix-core-2024": {
+        "title": "Bionix Core 2024",
+        "category": "Engine Update",
+        "description": "The next generation of the TCG engine with 4K asset support and real-time logic.",
+        "tag": "Latest"
+      },
+      "tabletop-essentials": {
+        "title": "Tabletop Essentials",
+        "category": "Asset Pack",
+        "description": "Standardized card templates and physics-based dice for your custom game packs.",
+        "tag": "Verified"
+      },
+      "tournament-hub": {
+        "title": "Tournament Hub",
+        "category": "Community Tool",
+        "description": "Automated bracket systems and prize pool management for your Discord server.",
+        "tag": "Beta"
+      },
+      "visual-card-editor": {
+        "title": "Visual Card Editor",
+        "category": "Tooling",
+        "description": "No-code tool to design, export, and publish packs directly to Thunderbird.",
+        "tag": "Pro"
+      },
+      "legacy-archive": {
+        "title": "Legacy Archive",
+        "category": "Archive",
+        "description": "Access classic 2020-2023 community content and party game collections.",
+        "tag": "Stable"
+      },
+      "experimental-physics": {
+        "title": "Experimental Physics",
+        "category": "Engine Update",
+        "description": "Try out our new physics engine with advanced collision and ragdoll support.",
+        "tag": "Experimental"
+      },
+      "community-showcase": {
+        "title": "Community Showcase",
+        "category": "Community Tool",
+        "description": "A rotating gallery of standout community-created packs and modules.",
+        "tag": "Showcase"
+      },
+      "developer-api": {
+        "title": "Developer API",
+        "category": "Tooling",
+        "description": "Integrate your own tools and services with Thunderbird's open API.",
+        "tag": "Developer"
+      },
+      "card-animation-pack": {
+        "title": "Card Animation Pack",
+        "category": "Asset Pack",
+        "description": "Bring your cards to life with dynamic animations and particle effects.",
+        "tag": "Animation"
+      },
+      "virtual-tabletop": {
+        "title": "Virtual Tabletop",
+        "category": "Engine Update",
+        "description": "A new mode optimized for RPGs and board games with grid support.",
+        "tag": "VTT"
+      }
+    },
+    "features": {
+      "sectionLabel": "Features",
+      "heading": "Built for Serious Tabletop Creators",
+      "subheading": "A modular, community-first platform where publishing, discovery, and cross-format support are designed to scale with your game ecosystem.",
+      "items": {
+        "creator-workflow": {
+          "eyebrow": "Creator Workflow",
+          "title": "Ship Packs Faster With Guided Publishing",
+          "paragraphs": [
+            "Build and validate complete expansion packs in one place with predictable metadata, clean upload paths, and moderation-ready submissions.",
+            "From card art to deck manifests, Thunderbird keeps your release workflow consistent so you spend less time fixing format issues and more time creating."
+          ],
+          "imageAlt": "Visual editor and publishing workflow preview"
+        },
+        "community-discovery": {
+          "eyebrow": "Community Discovery",
+          "title": "Highlight What Your Players Actually Want",
+          "paragraphs": [
+            "Surface featured packs, stable releases, and experimental modules with searchable tags that help players find the right content quickly.",
+            "Alternating feed-style showcases make it easy to spot new updates while preserving context around category, quality state, and compatibility."
+          ],
+          "imageAlt": "Community showcase feed with featured modules"
+        },
+        "cross-game-flexibility": {
+          "eyebrow": "Cross-Game Flexibility",
+          "title": "Support TCG, Party, and Logic-Based Formats",
+          "paragraphs": [
+            "Thunderbird supports both image-heavy and text-first game systems, so creators can publish anything from premium card art packs to lightweight social decks.",
+            "A unified submission pipeline keeps standards clear while still allowing very different content styles and gameplay structures."
+          ],
+          "imageAlt": "Virtual tabletop environment for multiple game formats"
+        }
+      }
+    },
+    "donation": {
+      "heading": "Podderzhite Soobshchestvo",
+      "body": "Love Thunderbird? Help us keep the magic alive by supporting the development of new features, assets, and community tools.",
+      "donateNow": "Pozhertvovat Seichas",
+      "learnMore": "Uznat Bolshe"
+    },
+    "modal": {
+      "titleStart": "Submit",
+      "titleAccent": "Your Expansion Pack",
+      "subtitle": "Bring your card game to life!",
+      "removeFileTitle": "Remove file",
+      "filesInLabel": "In",
+      "clearAll": "Clear All",
+      "assetPipelineOptions": "Your Asset Pipeline Options",
+      "tradingCardGames": "Trading Card Games:",
+      "directFlattenedAssets": "01. Direct flattened assets",
+      "directFlattenedAssetsBody": "Upload pre-rendered, high-resolution 2.5\" x 3.5\" (734x1024px) portrait aspect ratio images. Best for cards with complex baked-in design and custom borders.",
+      "dynamicComposition": "02. Dynamic Composition",
+      "dynamicCompositionBody": "Upload Raw Images (PNG or JPG) and a Data Manifest (JSON or CSV). Best for cards with modular elements, such as separate art, text, and icon layers.",
+      "partyAndLogicSystems": "Party & Logic Systems:",
+      "partyAndLogicSystemsBody": "Upload standardized text-only expansions with a validated deck.* manifest in JSON or CSV formats. Best for games like Cards Against Humanity, Secret Hitler, and other logic-based card games without unique visual assets.",
+      "abort": "Abort",
+      "finalizeLineOne": "Finalize",
+      "finalizeLineTwo": "Submission",
+      "disclaimerLabel": "Disclaimer:",
+      "disclaimerLineOne": "These submissions shall be reviewed by the Thunderbird Committee and Community Moderators to ensure asset integrity and compliance with project standards.",
+      "disclaimerLineTwoPrefix": "By using our website services, we are not liable for intellectual property disputes arising from submitted content. You must certify that you own these assets or have the right to distribute them.",
+      "disclaimerLineTwoSuffix": "",
+      "learnMoreGuidelines": "Learn more about submission guidelines.",
+      "titleField": {
+        "expansionPackTitleLabel": "Expansion Pack Title",
+        "gameSystemLabel": "Game System",
+        "titlePlaceholder": "e.g. Kanto Region v1",
+        "gameSystemOptions": [
+          "Cards Against Humanity",
+          "Cards Against Cryptography",
+          "Cards Against Developers",
+          "Secret Hitler",
+          "Rotten Apples",
+          "Custom"
+        ]
+      },
+      "descriptionField": {
+        "label": "Description",
+        "placeholder": "Share what makes your expansion pack unique and exciting!",
+        "characterLimitReached": "Character limit reached for engine optimization."
+      },
+      "fileDrop": {
+        "dropAssetsHere": "Drop card assets here",
+        "clickToBrowse": "or click to browse local files"
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "The open-source ecosystem for table-top simulator space. Built for the community of gamers, powered by imagination.",
+    "platform": "Platforma",
+    "latestReleases": "Poslednie Relizy",
+    "documentation": "Dokumentatsiya",
+    "assetLibrary": "Asset Library",
+    "submitPack": "Submit a Pack",
+    "community": "Soobshchestvo",
+    "discordServer": "Discord Server",
+    "githubRepository": "GitHub Repository",
+    "twitter": "X / Twitter",
+    "showcase": "Showcase",
+    "stayConnected": "Ostavaytes na svyazi",
+    "newsletterBody": "Get notified about major engine updates and community events.",
+    "emailAddress": "Email address",
+    "privacyPolicy": "Politika Konfidentsialnosti",
+    "termsOfService": "Usloviya Servisa",
+    "contact": "Kontakt",
+    "copyright": "© 2026 Thunderbird Project. Built by Clod Gozon."
+  }
+}

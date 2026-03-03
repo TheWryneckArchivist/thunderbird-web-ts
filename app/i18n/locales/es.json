@@ -1,0 +1,212 @@
+{
+  "header": {
+    "stable": "ESTABLE",
+    "features": "Funciones",
+    "showcase": "Galeria",
+    "community": "Comunidad",
+    "donate": "Donar",
+    "downloadLatest": "Descargar Ultima",
+    "language": "Idioma",
+    "profile": "Perfil",
+    "guest": "Invitado",
+    "open": "Abrir",
+    "account": "Cuenta",
+    "signIn": "Iniciar Sesion",
+    "signOut": "Cerrar Sesion",
+    "enterNamePrompt": "Elige un nombre de perfil"
+  },
+  "hero": {
+    "headline": "Juegos de Mesa Sin Fronteras",
+    "subheadline": "Llevamos la magia de la noche de juegos a tu pantalla, donde estes. Porque toda gran aventura empieza con tu turno.",
+    "getItNow": "Obtenlo Ahora",
+    "whatsNew": "Que Hay Nuevo?",
+    "learnMore": "Saber Mas",
+    "lookingFor": "Buscas versiones",
+    "early": "tempranas",
+    "stable": "estables",
+    "experimental": "experimentales",
+    "releases": "?"
+  },
+  "assetLibrary": {
+    "mainHeader": {
+      "title": "Nuevos Packs",
+      "titleAccent": "& Noticias",
+      "subtitle": "Descubre expansiones nuevas, contenido de la comunidad y las ultimas actualizaciones.",
+      "searchPlaceholder": "Buscar assets...",
+      "showing": "Mostrando",
+      "results": "Resultados",
+      "submitHere": "+ Enviar Aqui"
+    },
+    "allTagLabel": "Todo",
+    "emptyState": "Ningun asset coincide con tu busqueda.",
+    "detailsLabel": "DETALLES +",
+    "cards": {
+      "bionix-core-2024": {
+        "title": "Bionix Core 2024",
+        "category": "Actualizacion del Motor",
+        "description": "La nueva generacion del motor TCG con soporte 4K y logica en tiempo real.",
+        "tag": "Reciente"
+      },
+      "tabletop-essentials": {
+        "title": "Esenciales Tabletop",
+        "category": "Pack de Assets",
+        "description": "Plantillas estandar de cartas y dados con fisica para tus packs personalizados.",
+        "tag": "Verificado"
+      },
+      "tournament-hub": {
+        "title": "Centro de Torneos",
+        "category": "Herramienta Comunitaria",
+        "description": "Sistemas automaticos de brackets y gestion de premios para tu servidor de Discord.",
+        "tag": "Beta"
+      },
+      "visual-card-editor": {
+        "title": "Editor Visual de Cartas",
+        "category": "Herramientas",
+        "description": "Herramienta sin codigo para disenar, exportar y publicar packs en Thunderbird.",
+        "tag": "Pro"
+      },
+      "legacy-archive": {
+        "title": "Archivo Legacy",
+        "category": "Archivo",
+        "description": "Accede a contenido clasico de la comunidad de 2020-2023 y colecciones party.",
+        "tag": "Estable"
+      },
+      "experimental-physics": {
+        "title": "Fisica Experimental",
+        "category": "Actualizacion del Motor",
+        "description": "Prueba el nuevo motor de fisica con colisiones avanzadas y soporte ragdoll.",
+        "tag": "Experimental"
+      },
+      "community-showcase": {
+        "title": "Vitrina Comunitaria",
+        "category": "Herramienta Comunitaria",
+        "description": "Galeria rotativa de packs y modulos destacados creados por la comunidad.",
+        "tag": "Vitrina"
+      },
+      "developer-api": {
+        "title": "API para Desarrolladores",
+        "category": "Herramientas",
+        "description": "Integra tus herramientas y servicios con la API abierta de Thunderbird.",
+        "tag": "Dev"
+      },
+      "card-animation-pack": {
+        "title": "Pack de Animacion de Cartas",
+        "category": "Pack de Assets",
+        "description": "Da vida a tus cartas con animaciones dinamicas y efectos de particulas.",
+        "tag": "Animacion"
+      },
+      "virtual-tabletop": {
+        "title": "Tabletop Virtual",
+        "category": "Actualizacion del Motor",
+        "description": "Nuevo modo optimizado para RPG y juegos de mesa con soporte de grilla.",
+        "tag": "VTT"
+      }
+    },
+    "features": {
+      "sectionLabel": "Funciones",
+      "heading": "Disenado para Creadores Serios de Tabletop",
+      "subheading": "Una plataforma modular y comunitaria donde publicacion, descubrimiento y soporte multiformato crecen con tu ecosistema de juego.",
+      "items": {
+        "creator-workflow": {
+          "eyebrow": "Flujo del Creador",
+          "title": "Publica Packs Mas Rapido con Guias Claras",
+          "paragraphs": [
+            "Construye y valida packs completos en un solo lugar con metadatos predecibles, rutas limpias de carga y envios listos para moderacion.",
+            "Desde arte de cartas hasta manifiestos de mazos, Thunderbird mantiene tu flujo de lanzamiento consistente para que crees mas y corrijas menos."
+          ],
+          "imageAlt": "Vista previa del editor visual y flujo de publicacion"
+        },
+        "community-discovery": {
+          "eyebrow": "Descubrimiento Comunitario",
+          "title": "Destaca lo que Tus Jugadores Realmente Quieren",
+          "paragraphs": [
+            "Muestra packs destacados, versiones estables y modulos experimentales con etiquetas buscables para encontrar contenido mas rapido.",
+            "Las vitrinas alternadas tipo feed facilitan ver novedades manteniendo contexto de categoria, calidad y compatibilidad."
+          ],
+          "imageAlt": "Feed de vitrina comunitaria con modulos destacados"
+        },
+        "cross-game-flexibility": {
+          "eyebrow": "Flexibilidad Multijuego",
+          "title": "Soporta Formatos TCG, Party y Logicos",
+          "paragraphs": [
+            "Thunderbird soporta sistemas con imagen y texto, para publicar desde packs premium de arte hasta mazos sociales ligeros.",
+            "Un pipeline unificado mantiene estandares claros sin limitar estilos de contenido ni estructuras de jugabilidad."
+          ],
+          "imageAlt": "Entorno virtual tabletop para multiples formatos"
+        }
+      }
+    },
+    "donation": {
+      "heading": "Apoya a la Comunidad",
+      "body": "Te gusta Thunderbird? Ayudanos a mantener la magia apoyando nuevas funciones, assets y herramientas comunitarias.",
+      "donateNow": "Donar Ahora",
+      "learnMore": "Saber Mas"
+    },
+    "modal": {
+      "titleStart": "Enviar",
+      "titleAccent": "Tu Expansion",
+      "subtitle": "Dale vida a tu juego de cartas!",
+      "removeFileTitle": "Eliminar archivo",
+      "filesInLabel": "En",
+      "clearAll": "Limpiar Todo",
+      "assetPipelineOptions": "Opciones de Pipeline de Assets",
+      "tradingCardGames": "Juegos de Cartas Coleccionables:",
+      "directFlattenedAssets": "01. Assets directos renderizados",
+      "directFlattenedAssetsBody": "Sube imagenes en alta resolucion con proporcion 2.5\" x 3.5\" (734x1024px). Ideal para cartas con diseno complejo y bordes personalizados.",
+      "dynamicComposition": "02. Composicion Dinamica",
+      "dynamicCompositionBody": "Sube imagenes crudas (PNG o JPG) y un manifiesto de datos (JSON o CSV). Ideal para capas separadas de arte, texto e iconos.",
+      "partyAndLogicSystems": "Sistemas Party y de Logica:",
+      "partyAndLogicSystemsBody": "Sube expansiones de solo texto con manifiesto deck.* validado en JSON o CSV. Ideal para juegos como Cards Against Humanity y Secret Hitler.",
+      "abort": "Cancelar",
+      "finalizeLineOne": "Finalizar",
+      "finalizeLineTwo": "Envio",
+      "disclaimerLabel": "Aviso:",
+      "disclaimerLineOne": "Estos envios seran revisados por el Comite de Thunderbird y moderadores comunitarios para asegurar integridad y cumplimiento de normas.",
+      "disclaimerLineTwoPrefix": "Al usar nuestros servicios web, no somos responsables por disputas de propiedad intelectual del contenido enviado. Debes certificar que posees estos assets o tienes derechos de distribucion.",
+      "disclaimerLineTwoSuffix": "",
+      "learnMoreGuidelines": "Conoce mas sobre las guias de envio.",
+      "titleField": {
+        "expansionPackTitleLabel": "Titulo del Pack de Expansion",
+        "gameSystemLabel": "Sistema de Juego",
+        "titlePlaceholder": "ej. Region Kanto v1",
+        "gameSystemOptions": [
+          "Cards Against Humanity",
+          "Cards Against Cryptography",
+          "Cards Against Developers",
+          "Secret Hitler",
+          "Rotten Apples",
+          "Personalizado"
+        ]
+      },
+      "descriptionField": {
+        "label": "Descripcion",
+        "placeholder": "Comparte que hace unico y emocionante tu pack de expansion.",
+        "characterLimitReached": "Limite de caracteres alcanzado para optimizacion del motor."
+      },
+      "fileDrop": {
+        "dropAssetsHere": "Suelta aqui tus assets de cartas",
+        "clickToBrowse": "o haz clic para buscar archivos locales"
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "El ecosistema open-source para el espacio de simuladores tabletop. Creado para la comunidad gamer, impulsado por imaginacion.",
+    "platform": "Plataforma",
+    "latestReleases": "Ultimos Lanzamientos",
+    "documentation": "Documentacion",
+    "assetLibrary": "Biblioteca de Assets",
+    "submitPack": "Enviar un Pack",
+    "community": "Comunidad",
+    "discordServer": "Servidor Discord",
+    "githubRepository": "Repositorio GitHub",
+    "twitter": "X / Twitter",
+    "showcase": "Vitrina",
+    "stayConnected": "Mantente Conectado",
+    "newsletterBody": "Recibe avisos sobre actualizaciones importantes y eventos comunitarios.",
+    "emailAddress": "Correo electronico",
+    "privacyPolicy": "Politica de Privacidad",
+    "termsOfService": "Terminos del Servicio",
+    "contact": "Contacto",
+    "copyright": "© 2026 Proyecto Thunderbird. Creado por Clod Gozon."
+  }
+}
